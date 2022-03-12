@@ -1,6 +1,8 @@
 package com.accessories.CPU.amd;
 
-public class ryzenPro2000 extends mainAMD{
+import com.accessories.CPU.mainCPU;
+
+public class ryzenPro2000 extends mainCPU {
 
     public ryzenPro2000() {
         super(3,"ryzenPro2000",3,3500);

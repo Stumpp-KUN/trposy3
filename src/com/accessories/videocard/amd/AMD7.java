@@ -1,6 +1,8 @@
 package com.accessories.videocard.amd;
 
-public class AMD7 extends amdMain{
+import com.accessories.videocard.mainVideo;
+
+public class AMD7 extends mainVideo {
 
     AMD7(int fillRate, String name, int cost, int amountOfMemory) {
         super(fillRate, name, cost, amountOfMemory);

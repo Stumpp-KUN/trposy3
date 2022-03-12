@@ -1,6 +1,8 @@
 package com.accessories.CPU.intel;
 
-public class intel8 extends mainIntel{
+import com.accessories.CPU.mainCPU;
+
+public class intel8 extends mainCPU {
 
 
     public intel8(){

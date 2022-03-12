@@ -1,6 +1,8 @@
 package com.accessories.videocard.nvidia;
 
-public class RTX3090 extends mainVideocard{
+import com.accessories.videocard.mainVideo;
+
+public class RTX3090 extends mainVideo {
 
 
     public RTX3090(){

@@ -1,6 +1,8 @@
 package com.accessories.CPU.amd;
 
-public class ryzenPro3000 extends mainAMD{
+import com.accessories.CPU.mainCPU;
+
+public class ryzenPro3000 extends mainCPU {
 
 
 

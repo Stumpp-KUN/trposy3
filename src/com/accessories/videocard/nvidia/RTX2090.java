@@ -1,6 +1,8 @@
 package com.accessories.videocard.nvidia;
 
-public class RTX2090 extends mainVideocard{
+import com.accessories.videocard.mainVideo;
+
+public class RTX2090 extends mainVideo {
     public RTX2090(){
         super(4,"RTX2090",7000,12);
     }

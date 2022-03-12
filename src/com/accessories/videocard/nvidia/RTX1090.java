@@ -1,6 +1,8 @@
 package com.accessories.videocard.nvidia;
 
-public class RTX1090 extends mainVideocard{
+import com.accessories.videocard.mainVideo;
+
+public class RTX1090 extends mainVideo {
     public RTX1090(){
         super(3,"RTX1090",5000,9);
     }
